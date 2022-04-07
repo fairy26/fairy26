@@ -49,18 +49,18 @@ Here are some ideas to get you started:
 | 年月 | 企業 | 概要 | 使用技術 |
 | --- | --- | --- | --- |
 | 2021年7月-9月 | 株式会社アーテリジェンス | ブログ執筆 | - |
-| 2021年8月-11月 | 株式会社AIメディカルサービス | 社内インフラシステム開発 | Python, TypeScript, React, Electron |
+| 2021年8月-11月 | 株式会社AIメディカルサービス | [社内インフラシステム開発](https://github.com/fairy26/AIM_fairy-video-tools) | Python, TypeScript, React, Electron |
 
 ## イベント・ハッカソン経験
 
 | 年月 | イベント | 概要 | 使用技術 | 備考 |
 | --- | --- | --- | --- | --- |
-| 2022年3月 | Open Hack U 2021 vol.4 | オンライン会議の自動司会進行webアプリ | Go, Echo, TypeScript, React, Ant Design, Azure | 優秀賞を獲得 |
+| 2022年3月 | Open Hack U 2021 vol.4 | [オンライン会議の自動司会進行webアプリ](https://github.com/RochUP) | Go, Echo, TypeScript, React, Ant Design, Azure | 優秀賞を獲得 |
 
 ## 個人開発
 
 | 年月 | 概要 | 使用技術 |
 | --- | --- | --- |
-| 2021年10月 |  ToDoリスト | CSS, JavaScript, React |
+| 2021年10月 |  [ToDoリスト](https://github.com/fairy26/Udemy_react-todo) | CSS, JavaScript, React |
 | 2021年8月 | Slack上の資料をダウンロードするCLIツール・デスクトップアプリ | Python |
-| 2022年3月 | Reactフックを用いた簡易ToDoリスト（勉強会用） | TypeScript, React, Fluent UI |
+| 2022年3月 | [Reactフックを用いた簡易ToDoリスト（勉強会用）](https://github.com/fairy26/React-FluentUI-sample) | TypeScript, React, Fluent UI |
