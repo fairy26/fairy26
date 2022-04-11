@@ -61,6 +61,5 @@ Here are some ideas to get you started:
 
 | 年月 | 概要 | 使用技術 |
 | --- | --- | --- |
-| 2021年10月 |  [ToDoリスト](https://github.com/fairy26/Udemy_react-todo) | CSS, JavaScript, React |
 | 2021年8月 | [Slack上の資料をダウンロードするCLIツール・デスクトップアプリ](https://github.com/fairy26/Slackcat) | Python |
 | 2022年3月 | [Reactフックを用いた簡易ToDoリスト（勉強会用）](https://github.com/fairy26/React-FluentUI-sample) | TypeScript, React, Fluent UI |
