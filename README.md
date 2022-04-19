@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 | 年月 | 企業 | 概要 | 使用技術 |
 | --- | --- | --- | --- |
 | 2021年7月-9月 | 株式会社アーテリジェンス | ブログ執筆 | - |
-| 2021年8月-11月 | 株式会社AIメディカルサービス | [社内インフラシステム開発](https://github.com/fairy26/AIM_fairy-video-tools) | Python, TypeScript, React, Electron |
+| 2021年8月-11月 | 株式会社AIメディカルサービス | 社内インフラシステム開発| Python, TypeScript, React, Electron |
 
 ## イベント・ハッカソン経験
 
