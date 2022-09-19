@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 | --- | --- | --- | --- |
 | 2021年7月-9月 | 株式会社アーテリジェンス | ブログ執筆 | - |
 | 2021年8月-11月 | 株式会社AIメディカルサービス | 社内インフラシステム開発| Python, TypeScript, React, Electron |
-| 2022年8月 |　株式会社Speee | 事業立案・新規サービス開発 | Ruby on Rails, bootstrap |
+| 2022年8月 | 株式会社Speee | 事業立案・新規サービス開発 | Ruby on Rails, bootstrap |
+| 2022年9月 | 楽天カード株式会社 | CSIRT業務 | - |
 
 ## イベント・ハッカソン経験
 
