@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 | 項目 | 概要 |
 | --- | --- |
 | 氏名 | 吉田 洋生（Yoshida Yosei） |
-| 生年月日 | 1999年2月26日生（満22歳） |
+| 生年月日 | 1999年2月26日生（満23歳） |
 
 ## アカウント
 
