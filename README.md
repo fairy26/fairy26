@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 | メール | yoshida-yosei-vx@ynu.jp | コンタクト |
 | Twitter | https://twitter.com/fairy26_y | 日々の発信 |
 | Notion | （公開用整理中） | 備忘録の一元管理 |
-| Note | https://note.com/fairy26 | 非技術的なアウトプット |
-| Zenn | https://zenn.dev/fairnim | 技術的なアウトプット |
+| Note | https://note.com/fairy26 | 非技術的なアウトプット(予定) |
+| Zenn | https://zenn.dev/fairnim | 技術的なアウトプット(予定) |
 
 ## 免許・資格
 
@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 | 2018年10月 | 普通自動車第一種運転免許　取得 |
 | 2018年11月 | 普通自動二輪車免許　取得 |
 | 2022年7月 | TOEIC公開テスト　スコア825 |
+| 2023年4月 | 基本情報技術者 取得 |
+| 2023年5月 | FP3級 取得 |
+| 2023年8月 | 大型自動二輪者免許 取得 |
 
 ## 学歴
 
@@ -53,6 +56,7 @@ Here are some ideas to get you started:
 | 2022年8月 | 株式会社Speee | 事業立案・新規サービス開発 | Ruby on Rails, bootstrap |
 | 2022年9月 | 楽天カード株式会社 | CSIRT業務 | - |
 | 2022年10月-11月| 株式会社リクルート | サーバーサイドのパフォーマンスチューニング | Ruby, fluentd |
+| 2023年4月-7月| LINE株式会社 | サーバーサイドのサービス開発 | Java, Kotlin, Spring, MySQL, MyBatis |
 
 ## イベント・ハッカソン経験
 
